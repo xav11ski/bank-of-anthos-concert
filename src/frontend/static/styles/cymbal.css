@@ -240,13 +240,13 @@ bottom: 10px;
   color: #FF0000;
 }
 .text-debit {
-  color: #0f62fe;
+  color: #00D924;
 }
 .transaction-amount {
   text-align: right !important;
 }
 .transaction-amount-credit{
-  color: #0f62fe;
+  color: #00D924;
 }
 .transaction-amount-debit {
   color: #FF0000;
